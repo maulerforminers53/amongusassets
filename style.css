@@ -1,0 +1,13 @@
+body {
+    background-image: url("among us images/Map Banners.png");
+    font-family: Comic Sans MS;
+    font-weight: bold;
+    color: white;
+    font-size: 36px;
+    text-align: center;
+}
+ p, a {
+     text-decoration: none;
+     color: purple;
+     filter: brightness(150%);
+ }
